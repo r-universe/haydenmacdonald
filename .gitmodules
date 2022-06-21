@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "squashinformr"]
+	path = squashinformr
+	url = https://github.com/haydenmacdonald/squashinformr
+	shallow = true
+	registered = true
